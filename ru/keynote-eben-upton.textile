@@ -1,24 +1,24 @@
 00:00
 
-[Eben]: Thankyou guys. So, my name is Eben Upton, I run a thing based in the UK called the Raspberry Pi Foundation. Ah, we make little computers for kids. 
+[Eben]: Спасибо всем. Итак, меня зовут Eben Upton, в Соединённом Кроолевстве я занимаюсь штукой, которая называется Raspberry Pi. Да, мы делаем маленькие компьютеры для детей.
 
-Now normally I try to avoid inflicting death by powerpoint on people, but... We were so close, yesterday was pi day so I really couldn't resist a moderately - ah, what are we gonna do here?
+Сейчас я стараюсь не причинять смерти окружающим людям презентациями PowerPoint, но... Вчера был день числа Пи, и у меня нет сил сдержаться, - а, что же мне надо сделать?
 
-00:26 [from offscreen]: We need your laptop on 1024x768; you're on 800x600.
+00:26 [Из-за экрана]: Разрешение вашего экрана должно быть 1024x768; а не 800x600.
 
-[Eben] Damnation.
+[Eben] Чёрт побери.
 
-[audience laughs]
+[Аудитория смеётся]
 
-[Eben] This wouldn't have happened with a Raspberry Pi.
+[Eben] С Raspberry Pi такого не могло бы случиться.
 
-[more laughter]
+[Громкий смех]
 
-[Eben] Aah, Windows 7, what do I do..?
+[Eben] Ох, Windows 7, что же мне делать?..
 
-[laughter]
+[Смех]
 
-[Eben] There will be a short pause, possibly a long pa - oh, let's have a look. See, so it's thinking 10 by 7. Can you toggle it to the main screen and see what happens?
+[Eben] Так, небольшая пауза, может быть пауза побольше, или... - о! давайте посмотрим. See, so it's thinking 10 by 7. Can you toggle it to the main screen and see what happens?
 
 01:03 [from offscreen] It's good.
 
