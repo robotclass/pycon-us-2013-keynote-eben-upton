@@ -9,5 +9,5 @@ http://www.raspberrypi.org/archives/3508
 
 File structure:
 
-  * keynote-eben-upton.md - transcription
+  * keynote-eben-upton.textile - transcription
   * subfolders - translations to languages
