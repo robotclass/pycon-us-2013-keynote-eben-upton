@@ -18,26 +18,26 @@
 
 [Смех]
 
-[Eben] Так, небольшая пауза, может быть пауза побольше, или... - о! давайте посмотрим. See, so it's thinking 10 by 7. Can you toggle it to the main screen and see what happens?
+[Eben] Так, небольшая пауза, может быть пауза побольше, или... - о! давайте посмотрим. See, so it's thinking 10 by 7. Вы можете переключить на главный экран, и посмотреть, что произойдёт?
 
-01:03 [from offscreen] It's good.
+01:03 [Из-за экрана] Неплохо.
 
-[Eben]: Is it good? We're good. Outstanding. And back to the presentation.
+[Eben]: Хорошо, правда? Мы молодцы. Выдающаяся работа. Теперь вернёмся к презентации.
 
 So, um, I couldn't resist doing a moderately pi themed talk, a talk themed around everyone's favourite irrational number. So what I'm going to try and do, we'll start off by talking about 1. Um, I'd like to talk to you for a few minutes about what Raspberry Pi is, it's like one big story - what Raspberry Pi is, why we're doing it.
 
-For me, Raspberry Pi has been about a 7 year journey now, starting with my time as what we call a director of studies at the university in Cambridge. Now the role of a director of studies is to organise the undergraduate teaching for a subject at one of our thirty colleges, and also to ensure a supply of undergraduates in the future. So every December we get a lot of high-school students come in - ah, we *used* to get a lot of high-school students come in to apply for our course.
+Для меня, Raspberry Pi уже является 7 летним приключением, которое началось для меня со звонка руководителю НИР Кебриджского университета. Сейчас задача руководителя НИР - организовывать обучение в бакалавриате в одном из тридцати колледжей, и также обеспечить приток бакалавров в будущем. Таким образом, каждый декабрь мы получаем много новых учеников высшей школы, - ах да, мы привлекаем множество студентов к участию в нашем курсе.
 
-Now, when I went to Cambridge in 1996, we had a fairly typical oversubscription ratio of about 6:1, so in order to get a place in the computer science {trackpass?} you had to beat your way through, ah, you had to beat out 5 other guys, and those 5 other guys, they were often people who had a very very deep level of understanding of what computers did. They were people who had been programming maybe since they were 10. People who had had their Commodore 64s, or their Timexes, or in the UK, machines like the BBC Microcomputer which is certainly what I grew up with. These were people who maybe had bought these machines as children to play computer games on. Or they'd built or bought or been bought these machines by their parents to do schoolwork on. 
+Итак, когда я пришёл в Кембридж в 1996-м, на науки о компьютерах {trackpass?} вполне обычный конкурс около 6:1, и чтобы получить своё место, вам нужно было прорываться, ох, вам нужно было выбить тех 5 ребят и вон тех 5, которые часто весьма и весьма неплохо разбирались в компьютерах. Это были те, кто программировал, может быть, лет с 10. Те, у кого были собственные Commodore 64, или Timex, или если речь идёт о Соединённом Королевстве, машины наподобие BCC Microcomputer, именно те, с которыми вырос и я. Может быть они приобрели эти компьютеры для игр, а может быть им купили или сделали сами родители, для домашних заданий.
 
-But all of these machines had one thing in common, and that was that when you turned them on, they went 'beep' (well, mine went beep), and they gave you a programming prompt and the first thing you had to do if you wanted to play games on these machines or you wanted to start a wordprocessor and do schoolwork - the first thing you had to choose to do was to choose *not* to program the computer. And what this meant was that everyone of my age in the UK who had any aptitude for computing or any interest in computing had a chance to discover that they had that interest, and they had a platform generally in their bedrooms that they could hack on for many hours a night, that they could use to develop those skills. And what this meant was that virtually everybody I knew at school at least knew how to write that 2-line program:
+В любом случае, у всех этих компьютеров была одна общая черта - когда вы их включали, раздавалось "би!" (мы этого ждали), и затем вы оставались перед приглашением языка программирования, и первая вещь, которую необходимо было сделать прежде чем поиграть в игрушке или запустить текстовый процессор для домашних заданий - the first thing you had to choose to do was to choose *not* to program the computer. And what this meant was that everyone of my age in the UK who had any aptitude for computing or any interest in computing had a chance to discover that they had that interest, and they had a platform generally in their bedrooms that they could hack on for many hours a night, that they could use to develop those skills. Это значило, что практически каждый, кого я знал в школе, по крайней мере знал такую программу в две строчки:
 
 10 PRINT "I AM THE BEST"
 20 GOTO 10
 
-...or something a lot filthier, and then to go into a local computer store, type it into all of the machines and then hit 'enter' on all of the machines and run out of the door. It was a simpler time in the 1980s, we used to make our own entertainment.
+... или что-нибудь менее пристойное, затем шёл в местный компьютерный магазин, забивал код во все компьютеры и, нажимая "Enter" на всех машинах, на полном ходу выбегал прочь. Восьмидесятые годы были нехитрым временем, и мы развлекались как могли.
 
-[audience laughs]
+[Аудитория смеётся]
 
 03:46 [Eben]: And the upshot of this was that at the university in Cambridge, we'd gotten fat and happy on this stream of incredibly intelligent, incredibly talented kids who came in the door at the age of 18 - the Cambridge course is fairly famous for having very short terms; the better the university in the UK the less time you actually spend there. Um, what this means is over the course of three years, we have 60 weeks of contact time to turn you from a high-school student into somebody who can start an english 3-year PHD programme. That meant it was extremely useful to us to be able to rely on a certain level of ability, and a certain level of knowledge when people came in the door, and in fact the first thing we had to do with a lot of these kids was we had to convince them that they didn't know everything. We had a fantastic tool called functional programming, standard ML for doing this.
 
@@ -45,9 +45,9 @@ But all of these machines had one thing in common, and that was that when you tu
 
 [Eben]: Woo! Language wars!
 
-[applause]
+[Апполдисменты]
 
-[Eben]: And so we beat these kids (and I was one of those kids); the kids were beaten over the head for the first 8 weeks of the course, and when they were lying there whimpering, then we can start to teach them the things they need to know. [laughs] 
+[Eben]: And so we beat these kids (and I was one of those kids); the kids were beaten over the head for the first 8 weeks of the course, and when they were lying there whimpering, then we can start to teach them the things they need to know. [Смеётся] 
 
 People absolutely need to know functional programming. Um, so [laughs], so by the time I went through the PHD programme and by the time I was interviewing people in 2005, the picture had changed radically. So we'd gone from having 500 applicants for our 80 or 90 places, to having more like 200-250. And while that's still a reasonable ratio, it was starting to get a little bit slim. It was starting to look like we might not be able to find out 80 or 90 kids. And while we were still able, and to this day we can still find 80 or 90 people to come and study on the course who are every bit as intelligent as those people were back in the mid-1990s, what they lack these days is they lack that built-in, kind of hacker knowledge of what the machine is doing. So we had to spend quite a lot of the start of our 60 weeks building these people up to a level that we'd previously been able to assume. 
 
