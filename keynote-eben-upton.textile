@@ -110,3 +110,99 @@ And then we thought 'you know, our 10,000 units might only last a week', and it 
 So, we're a year in. We sold our millionth Raspberry Pi at some point last month.
 
 [17:30] [applause]
+
+[17:37]
+
+...So I'll pretend that's what my number 1 stands for, shall I? The 1 stands for one million units sold.
+
+So it's been an incredible year, and one of the wonderful things about this year has been that for the first six months to a year of this project, our website largely documented stuff we were doing to get this device out the door, and then for the next 6-9 months what was documented, was what people like us were doing [indicates the audience] people – the adults, who already have a knowledge of computerswere doing.
+
+One of the really wonderful things for the past six months, the past 3-6 months is the character of the submissions we get to our web site is changing. The character of the submissions we get is changing to be as much as what children do with the Pi, as it is about what adults are doing with the Pi. And that's a really good sign.
+
+So I'm going to inflict on you... [to offstage: Can I have the slide deck back?] ...15-ish cool pictures of stuff. I wasn't able to keep myself to fifteen, but I'll be very quick. [slide of music synthesiser] Projects people do with this, things we never expected. One of the interesting things about the Pi is that - I'm a graphics hacker - I assume that what people would write is graphics demos on this. Hardly anyone has written graphics demos, although if there are any graphics hackers in the room, please do write graphics demos on the Pi and make me happy, but almost everything people have been doing with the Pi has been stuff that I wouldn't have seen coming, so one of the wonderful ones here -people have been using this platform to be doing music. This is a modular-like digital-analog synth you can download called... The name has flown out of my brain, but it's out there. raspberrypisynthesiser.blogspot.com .
+
+[19:14] [slide showing beer brewing equipment]
+Beer! So, it turns out there is a big overlap between people who like computer programming and people who like beer. You will not believe the number of people whose first reaction when thinking about what to do with their Raspberry Pi - cannot imagine how many people rise to that challenge by using it to control their brewery, whether that's a little home brewing station, or a proper microbrewery. And there's a thing called BrewPi - there's an open platform - I believe it's based on Python, Arduino, and Raspberry Pi - a platform called BrewPi which is a completely fully integrated microbrewery analysys system running on the Raspberry Pi.
+
+[19:59] [slide showing photographs of a model cow]
+Photography. This one I enjoyed. If you want to get really crisp macro photos from your camera, there's a process called focus stacking where you step your camera towards the image and then stack up and basically find the bits that are in focus in each image and then combine them together. Usually you have to buy £1,000 worth of hardware to do this but this is a nice bit of focus stacking done using an old flatbed scanner and a Raspberry Pi and a camera. So that's quite cute.
+
+[20:29] [slide showing modified nintendo system]
+Ah, games, yeah. There's an enormous retro gaming community around the Raspberry Pi. The Raspberry Pi is just about powerful enough to emulate that era of computers that I grew up with, and the first era of consoles that I complained about that destroyed the era of computers that I grew up with [laughs]. Like this one - Super Nintendo, damn you!
+
+[20:50] [slide showing colourful city lights]
+Okay, lighting. I just put this one in because this one was incredibly cute. w have a lot of little paper - well no, they must be plastic boats on the Thames. There's a dock on the Thames - this is Canary Wharf where a lot of our financial services are in the UK, and there's a little ribbon of boats out there that you can text to and it will change colour. But these sort of art installations seem to be a big thing with Raspberry Pi.
+
+[21:15] [slide showing a toy TARDIS in space]
+Ah, this is my favourite one! It's 'Doctor Who' and space and the Raspberry Pi all-in-one. There's a gentleman called Dave Akerman who I met for the first time on Thursday night, but I've known about him for a long time. He does a good line in putting cameras under weather ballons and sending them up to 40km up and taking pictures. And he used to do this with little camcorders and digital still cameras. And about a year ago, just after launch, he started doing this with the Pi. And he's got these wonderful pictures of the Earth from 40km up and he does more and more incredible stuff - like a little polystyrene TARDIS at the same time. 
+
+What's wonderful about this is that this puts 'The Space Programme' within the budgetary reach of every primary school in the world. [audience applause] I defy any child - maybe I'm a child of my time, but I defy any child not to be interested in science, technology, engineering, and mathematics when they can put a TARDIS in space.
+
+[22:19] [slice showing MagPi fan magazine]
+We have magazines like in the 1980s, with type in listings like in the 1980s. Type in Python listings [audience cheers]. And there's something about that loop, where the internet is fantastic in a lot of ways for helping people learn to program. I remember as a child, having played 'Elite', wanting to write a little 3D game, wanting to be able to draw lines. And I knew there was a thing called Bresenham's algorithm that could be used to draw lines. And my father was a professor at the university in the UK and so I had access to the universary library. And could I find what Bresenham's algorithm was? Could I . . . hell. And now I find out about Bresenham's algorithm by typing it into Google.
+
+But one of the wonderful things about typing something in as opposed to downloading it from the web, is that there is some sort of feeling that it goes through your eyes and into your brain and out of your fingers, and somehow you own this more than something you just downloaded and run. And generally when you type it in you will make a mistake, and you'll therefore have a 'learning opportunity'. [laughs] I remember those 'learning opportunities' in the 1980s.
+
+So this is a free magazine called 'The MagPi'. I'm hoping that we're going to get print magazines. This one was actually an e-magazine for the first 8 issues, it comes out every month. But it's just transitioned into being a print mag that you can actually buy a subscription for.
+
+[23:40] [slide showing 'owner's manual']
+We have books. I don't know if you have Haynes' manuals over here... Yeah? So, Haynes' car manuals were a really big deal in the UK in the era when you opened the bonnet and it had something other than a big sheet of metal with a sticker on saying 'warranty void if opened'. Haynes have had to survive that transition, and the way they've survived it is by producing stuff like 'The Haynes Manual for the Space Shuttle' and 'The Haynes Manual for a Baby', and they've done a Haynes manual for the Raspberry Pi, so we are actually now starting to see an ecosystem appearing with books around the pi, and that's just been really really gratifying. we have at least one O'Reilly book, which means you know you've 'made it'.
+
+[24:24] [slide showing Python]
+This one is cool. There's a programming language called Python, This guy has figured out how to get python running in his desktop background. So you can give the focus to the desktop background and start typing python. This is pretty much as close as anyone has got to that primal, 'boots to programming language' experience that I talked about earlier, and I do think that this is incredibly cute.
+
+[24:40] [slide showing paper Pi cases]
+Cases - we thought we were going to make 1000 of these maybe, then 10,000. We didn't think we were going to be making enough of these for it to be worth us designing any injection-moulds for cases, so we didn't do a case. What this has meant is that we have left a lot of value out in the ecosystem - there are a lot of people making cases for the Raspberry Pi - a lot of people getting nice little businesses together around making cases and accessories for the Pi. And the cases you get for the Pi cover the entire gamut. They cover the entire market. This is the bottom end of the market, because this is a .PDF. What you do is you print this out onto the thickest paper you can get through your printer without jamming it, and then you fold it up and you've got a case! And it doesn't even catch fire, which is kind of cool. Erm, So I like that - I like 'the punnet'.
+
+[25:29] [slide showing LEGO case]
+This one's cool - LEGOs. We had this idea we wanted to build a credit-card sized computer, and the idea of the credit-card size was that it was largely a way of driving our focus on being small and being easy to communicate. You say 'it's a credit-card sized computer'. Of course, it's not a credit-card sized computer, because I didn't pay enough attention to the guy that was doing the board layout - my friend Pete Lomas, also a trustee - and so it's about 1mm off in each direction. By some amazing magical fluke, both the X and Y dimensions of the board turn out to be a multiple of the LEGO basis unit size, very very close. So there's an enormous world of LEGO cases. There's a girl scout called Biz in the UK. She's 11 years old and she posted a tutorial on her website, and there's now a website in the UK where you can buy non-standard LEGO kits, and you can buy this, and because she designed it she gets royalties on it, and because it's an 11-year-old girl she takes those royalties in the form of LEGO [audience applause]. So she's now got more LEGO than me. Just about.
+
+[26:44] [slide showing Pibow case]
+And then at the other end of that, Pibow. Jesse's daughter had an absolutely beautiful case for her Raspberry Pi. This is the Pibow. It's designed by the guy that designed our logo for us. It's a stack of bits of perspex, and it as you probably saw from jesse's photograph, the most beautiful case for a computer that I've ever seen.
+
+[27:07] [slide showing child with computer]
+We're starting to get some evidence that kids are learning to program on Raspberry Pis. This kid is called Mikey, here you can't see because it's off-camera, but he is learning to program in Scratch, MIT's Scratch which we run. We're spending a lot of the money at the moment on bring performance on scratch up to par on the Pi, so.. 
+
+[27:26] [another slide showing Indian kids having fun with a computer]
+We had a really parochial view - we were thinking about solving a problem for Cambridge university, and it turns out kids all over the UK want to learn to program, and it turns out kids all over the world want to learn to program - these kids are in Uttar Pradesh in India, and you can actually see in the bottom-left hand corner that they really are using Scratch to learn to program. And we get sent a lot of these pictures, and there have been some hard days during the development of the Raspberry Pi, there have been some very very tough moments, and it's these sorts of pictures that cheer us up and keep us going, because it gives us some sort of indication that we might actually be accomplishing something with this little computer.
+
+[28:06] [slide showing Minecraft]
+We run Minecraft. I don't think I have more to say about that. I said there need to be a 'hook'. There needs to be a hook to get these computers into kids' lives. Apparently a lot of children enjoy playing Minecraft, Mojang have been incredibly helpful they've done a port of the pocket edition of Minecraft to the Pi called 'Minecraft Pi Edition'. The wonderful thing about Minecraft Pi Edition is that the Minecraft process has a socket on the side of it you can bind to from pretty much any programming language - see if you can guess which one most people use - and you can actually text commands into it to interact with the world. And the wonderful thing about this is that it gives kids a reason to program. It gives you a reason to program. You want to build a house, you can be like 'brick, brick, brick, brick, brick...' or you can open the python window which you might be able to see in the background and you can be like:
+
+    for x in range(10):
+        for y in range(10):
+            brick()
+
+
+...and then you'll build a little floor. And it's just got that feeling of just very very quick feedback. You know, it gives the child something that's immediately useful to them and it gives it to them quickly.
+
+[29:06] [slide showing world domination]
+Try to take over the world.
+
+Try to take over the world - "What are we going to do tonight, Brain?". So, this wonderful map was done by a guy called Ryan Walmsley who was 14 at the time. It's a Google map hack, a self-registration map hack, and it gives you some idea of where the Pis are all going or where the Pis were going when I took this screenshot. You can see that we're a little bit outside our Cambridge comfort zone here, so quite a few in the UK, quite a lot in North America. North America is now our largest, it's been our largest run rate market for the last 3 months. As of last month, it also has our largest install base. Which is fantastic, although really what we would hope for given how many of you there are.
+
+So there are little pockets of strength in South Africa and Australasia. I think we would like to sell a hell of a lot more of these in South America and a hell of a lot more of these in India, but we're getting there. We've got plans for those.
+
+[29:57] [slide showing Sony Factory in Wales]
+
+Starting with Wales, which is where I come from. When we first started to build the Raspberry Pi we did what everyone did, which was to go to China to build it. And we built it in China and a couple of months into our run we got a call from Sony who have a factory in south Wales, and they said 'You know, we think we could build the Pi at the price you need.' and as of September last year, we've been building Pis in the UK at the same price that we could build them in Shenzhen [crowd applauds]. And that for me is a big deal, because I come from around 10 miles away from our factory - that's where I was born. South Wales has - like many areas that used to be the industrial heartland of the developed world - has enormous economic problems. And the ability - you know, we can build the world's cheapest general-purpose computer at the appropriate cost in Wales - is a really fantastic sign for all of us who worry about whether we can have a manufacturing industry in the developed world. So that was a personal one that I really enjoyed.
+
+[31:10]
+4. Four. Four things about Python, four reasons why Python is important to us. Our name. We get our name from Python and I will spend the rest of my life defending my ability to spell the name of 'Python', but yeah we owe you our name. 
+
+We owe you our chip. It's a 2835 which is a Broadcom chip that I was on the design team for the GPU. We designed the whole damn thing using Python. When we were designing our shader processor, we designed and verified the vast majority of the multimedia IP in our chip in Python, because it is 100x quicker to do that and then to port the result across to Verilog, than it is to do this stuff in Verilog, because the tools are just better. We just have this idea - 'why are software tools so much better than hardware CAD tools?' It's because it means programmers have to eat their own dog food. So, you know, uh, basic engineers have to eat our dog food. 
+
+Our software. Python, and a number of other interpretive languages have given us the ability to bring into this fairly unusual ARM/Linux space a vast body of very robust existing software, and have it run as well in our world as well as it does in the traditional X86 world. 
+
+And finally our teaching language. We support a lot of teaching languages. For young kids we support languages like LOGO and Scratch. We will always support C and C++ for when people want to get close to the metal. The wonderful thing for us about Python as a teaching language is it gives us a story that we can tell children. We can say 'learn this language in which 'Hello World' is print("Hello World"), and you will be on a smooth curve that leads to the language that all of these companies use to program in'. And there will not be a discontinuity at any point between the moment when you sit down and write that two-line program to spook people in a computer store and the point when you're a professional software engineer. We think that's very important, because any time there's a step in the curve, people fall off the curve.
+
+[33:08]
+And I'm very nearly done. Just 3 very quick things I'm thinking about at the moment. Those brackets in hello world. That's shorthand for 'do we make Python run 2.7 or Python 3?' Um, yes - we're going to have to make a choice at some point fairly soon, I think. People are getting confused, because we have things like Pygame has got to be installed for just one of them, and... urgh, it's all horrible. But we will get there.
+
+PyPy. We're big fans of PyPy. I think it's a wonderful idea, I was a big user of Psyco back in the day - these tools are really important. One of the things - we don't have a lot of processing power on the Raspberry Pi and therefore we do spend a lot of effort on just trying to squeeze as much as we can out of the platform we have. And certainly, looking at the performance, PyPy is going to be a big part of our future.
+
+Finally, Boot to Python. Yeah, I showed you the desktop thing. This thing floats around - this idea of having some mode. You know? Trying to get back to that world in which you had to choose not to program. We did have, in 2008 at the point at which we chose our foundation's name, a device that booted to python. And it continues to bump around in our heads - 'how are we gonna do this?' - we haven't really... Well, there's nothing educational about the Pi - it's just a cheap Linux box. We still wonder what the appropriate teaching environment for the Pi is. And we wonder whether it's any of our business. We wonder whether we should just let the community come up with that for us.
+
+[34:40]
+So there we are. I think that's all I had. Thank you very much for your time, thank you very much for having me here. Please come visit www.raspberrypi.org, and tell us what you did with your Raspberry Pis.
+[crowd applause]
